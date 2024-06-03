@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1715780000596,
+      "tag": "0000_premium_wendigo",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1715780905876,
+      "tag": "0001_loose_meteorite",
+      "breakpoints": true
+    }
+  ]
+}
