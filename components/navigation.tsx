@@ -83,9 +83,7 @@ export const Navigation = () => {
             key={route.href}
             href={route.href}
             label={route.label}
-            isActive={
-              pathname === route.href || pathname.startsWith(route.href)
-            }
+            isActive={pathname === route.href}
           />
         );
       })}
