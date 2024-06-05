@@ -24,7 +24,7 @@ export default function RootLayout({
         <body className={inter.className}>
           <QueryProvider>
             <SheetProvider />
-            <Toaster />
+            <Toaster position="bottom-left" />
             {children}
           </QueryProvider>
         </body>
