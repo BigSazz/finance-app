@@ -15,6 +15,13 @@
       "when": 1715780905876,
       "tag": "0001_loose_meteorite",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1717600983529,
+      "tag": "0002_sudden_silver_surfer",
+      "breakpoints": true
     }
   ]
 }
